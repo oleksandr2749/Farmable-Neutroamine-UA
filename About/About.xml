@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Farmable Neutroamine Українською</name>
+  <author>oleksandr</author>
+  <packageId>oleksandr.FarmableNeutroamineUA</packageId>
+  <modVersion>1.0</modVersion>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <loadAfter>
+    <li>nanonator102.FarmableNeutroamine</li>
+  </loadAfter>
+  <description></description>
+</ModMetaData>	
